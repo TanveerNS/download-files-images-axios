@@ -1,10 +1,11 @@
 {
-  "name": "download-files-images-axios",
+  "name": "download-files-images-axios-with-progress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev":"nodemon server.js"
   },
   "author": "",
   "license": "ISC",
